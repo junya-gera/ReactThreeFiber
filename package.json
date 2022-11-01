@@ -1,0 +1,23 @@
+{
+  "name": "three",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junya-gera/ReactThreeFiber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/junya-gera/ReactThreeFiber/issues"
+  },
+  "homepage": "https://github.com/junya-gera/ReactThreeFiber#readme",
+  "dependencies": {
+    "@react-three/fiber": "^8.9.0",
+    "three": "^0.146.0"
+  }
+}
